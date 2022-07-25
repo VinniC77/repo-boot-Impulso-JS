@@ -1,0 +1,12 @@
+{
+  "name": "aula-01-node",
+  "version": "1.0.0",
+  "description": "projeto para treinar e iniciar no node",
+  "main": "index.js",
+  "scripts": {
+    "principal": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius Clunc",
+  "license": "ISC"
+}
